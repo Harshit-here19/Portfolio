@@ -1,14 +1,23 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Experience from "./components/Experience";
+import Home from "./components/Home";
+import NavBar from "./components/NavBar";
+import Projects from "./components/Projects";
+import SocialLinks from "./components/SocialLinks";
 
 function App() {
   return (
-    <>
-      <h1>Harshit Sikarwar</h1>
-      <h2>B.Tech CSE</h2>
-    </>
+    <div>
+      <NavBar />
+      <Home />
+      <SocialLinks />
+      {/* <About /> */}
+      <Projects />
+      <Experience />
+      <Contact />
+    </div>
   );
 }
 
