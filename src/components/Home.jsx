@@ -23,7 +23,7 @@ const Home = () => {
             src={Dp}
             alt="my profile"
             data-aos="fade-in"
-            data-aos-duration="500"
+            data-aos-duration="1000"
             className="mt-20 rounded-full cursor-pointer shadow-black w-1/3 my-5 hover:scale-105 duration-300 sm:ease-in"
           />
           <div className="pt-28">
