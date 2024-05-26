@@ -24,7 +24,7 @@ const Projects = () => {
       id: 2,
       src: IGreels,
       desc: "This is an simple application used to download Instagram reels easily by just coping the link....",
-      demo: "https://super-lollipop-70d62a.netlify.app/",
+      demo: "https://igreels.netlify.app/",
       code: "https://github.com/Harshit-here19/IGreels",
     },
     {

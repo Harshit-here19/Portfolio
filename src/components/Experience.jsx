@@ -44,7 +44,7 @@ const Experience = () => {
       id: 5,
       scr: python,
       title: "Python",
-      style: "shadow-blue-400",
+      style: "shadow-blue-800",
     },
     {
       id: 6,
