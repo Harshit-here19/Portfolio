@@ -23,7 +23,7 @@ const Contact = () => {
 
         <div className="flex justify-center items-center">
           <form
-            action=""
+            action="mailto:harshitsikarwar232@gmail.com"
             method="POST"
             className="flex flex-col w-full md:w-1/2"
           >
