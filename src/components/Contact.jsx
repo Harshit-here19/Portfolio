@@ -25,7 +25,7 @@ const Contact = () => {
           <form
             action="mailto:harshitsikarwar232@gmail.com"
             method="POST"
-            className="flex flex-col w-full md:w-1/2"
+            className="flex flex-col w-full md:w-1/2 h-auto"
           >
             <input
               data-aos="slide-up"
